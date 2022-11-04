@@ -1,1 +1,2 @@
-# ComputerVision_Study_InPython
+# Resumo
+1* - 
